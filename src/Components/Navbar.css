@@ -1,0 +1,30 @@
+  .img-logo{
+    height: 40px;
+    width: 40px;
+    max-height: 72px;
+    max-width: 250px;
+
+}
+.img-container{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    text-decoration: none;
+    align-items: center;
+}
+
+.navbar-nav{
+    font-size: 25px;
+    font-weight: 500;
+    
+}
+.nav-link{
+    color: white;
+}
+
+
+
+
+
+ 
+
